@@ -1,3 +1,33 @@
+#thtml{
+    margin: 0 !important;
+}
+#bodypay{
+    margin: 0 !important;
+    background-color: #e0e0e0;
+}
+
+#head{
+    background-color: rosybrown;
+}
+#foot{
+    background-color: rosybrown;
+}
+.hoteldiv{
+    background-color: rgb(132,136,139);
+    width: 50%;
+    height: 100%;
+    margin: 2% 10%;
+}
+.inform{
+    margin: 2%;
+}
+.tariff{
+    margin: 2%;
+    border: solid 2px black;
+    padding: 1% 2%;
+    border-radius: 3%;
+    /* border-end-end-radius: 2%; */
+}
 #logo{
     height: 60px;
     width: 60px;

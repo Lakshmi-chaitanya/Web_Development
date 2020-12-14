@@ -1,3 +1,23 @@
+#thtml{
+    margin: 0 !important;
+}
+#bodydet{
+    margin: 0 !important;
+    background-color: #e0e0e0;
+}
+#head{
+    background-color: rosybrown;
+}
+#foot{
+    background-color: rosybrown;
+}
+.detailform{
+    margin: 0% 4% 1% 4%;
+
+}
+.hoteldet{
+    margin: 1% 4% 2% 4%;
+}
 #logo{
     height: 60px;
     width: 60px;
@@ -5,6 +25,7 @@
 #radissionHotelImg{
     height: 500px;
     width: 500px;
+    margin: 2% 4% 0%;
 }
 .socialMediaIMg{
     height: 20px;

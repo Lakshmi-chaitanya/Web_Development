@@ -6,8 +6,48 @@
 .hotelsimg{
     height: 150px;
     width: 150px;
+    padding: 4%;
+    border-radius: 30%;
 }
+/* .hotelimgDiv{
+    margin-left: 15%;
+    margin-right: 15% ;
+    position: center;
+} */
+
+#hot1{
+    margin-left: 10%;
+    
+}
+
+#hot4{
+    margin-right: 10%;
+    
+}
+
 .socialMediaImg{
     height: 20px;
     width: 22px;
+}
+#body1{
+    background-color: #e0e0e0;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#head{
+    background-color: rosybrown;
+}
+#foot{
+    background-color: rosybrown;
+}
+#thtml{
+    margin: 0 !important ;
+}
+#searchBar{
+    background-image: url(https://media-cdn.tripadvisor.com/media/photo-o/14/10/2e/af/india.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    background-size: cover;
+
 }
